@@ -3,7 +3,7 @@ peline {
   agent any
   environment {
   JF_REGISTRY="dbg-digital-suite-solutions-team-ase-dev-docker-local.artifactory.swg-devops.com"
-  
+  //added
    }
   stages {
         stage('Checkout') {
